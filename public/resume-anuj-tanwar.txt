@@ -1,0 +1,40 @@
+ANUJ TANWAR
+MCA Student | Full-Stack Developer
+
+Location: Trichy, Tamil Nadu, India
+Email: tp@nitt.edu
+Phone: +91 431 2501081
+
+SUMMARY
+Engineering student focused on modern web applications, user-centric interfaces,
+and scalable full-stack systems.
+
+EDUCATION
+- MCA, NIT Trichy (Expected 2027) | CGPA: 9.12
+- BCA, Holkar Science College, Indore (2024) | Score: 77.8%
+- Class XII, MPBSE (2021) | Score: 91.00%
+- Class X, MPBSE (2019) | Score: 91.20%
+
+PROJECTS
+1) CommUNIT - Campus Social Platform (Jun 2025 - Present)
+   Built full-stack campus platform with feeds, events, marketplace,
+   and recommendation modules using React, Node.js, Express, MongoDB.
+
+2) NeuroMatch - Memory Game (Apr 2025 - May 2025)
+   Built an interactive memory game with scoring and levels in Java.
+
+3) Application Blacklister (Mar 2025 - Present)
+   Java desktop utility for productivity and parental controls through app blocking.
+
+TECHNICAL SKILLS
+- Languages: JavaScript, Java, C++, C, Python
+- Frontend: React, Tailwind CSS, Vite
+- Backend: Node.js, Express
+- Databases: MongoDB, MySQL
+- Tools: Git, GitHub, Docker
+
+CERTIFICATIONS
+- Data Structures and Algorithms
+- Machine Learning
+- Web Technologies
+- Computer Networks
