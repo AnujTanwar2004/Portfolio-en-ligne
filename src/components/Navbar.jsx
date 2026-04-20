@@ -36,7 +36,7 @@ export default function Navbar() {
             </span>
           </span>
         </a>
-        <ul className="nav-links flex w-full items-center gap-2 overflow-x-auto whitespace-nowrap py-1 sm:gap-3 lg:w-auto lg:justify-center lg:overflow-visible lg:py-0">
+        <ul className="nav-links flex w-full flex-wrap items-center justify-center gap-2 py-1 sm:gap-3 lg:w-auto lg:flex-nowrap lg:justify-center lg:py-0">
           {links.map((link) => (
             <li key={link.href}>
               <a href={link.href} className="nav-link">
