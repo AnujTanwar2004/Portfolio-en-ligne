@@ -480,3 +480,31 @@ body::-webkit-scrollbar {
 .light .text-zinc-400 {
   color: #3f3f46;
 }
+
+@media (max-width: 768px), (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .nav-shell,
+  .glass-panel {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+
+  .speed-line,
+  .hud-speed-glow {
+    filter: none;
+  }
+
+  .hud-value::after,
+  .hud-speed-glow,
+  .hud-meter-fill,
+  .skill-card::after {
+    animation: none !important;
+  }
+
+  .shadow-red {
+    box-shadow: 0 6px 16px rgba(220, 38, 38, 0.22);
+  }
+}
